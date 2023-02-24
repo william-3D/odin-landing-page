@@ -8,3 +8,9 @@ h1 {
     font-weight: 800;
     color: #F9FAF8;
 }
+
+.subtext {
+    font-size: 18px;
+    color: #E5E7EB;
+    font-weight: normal;
+}

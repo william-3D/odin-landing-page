@@ -37,3 +37,7 @@ img {
     height: auto;
 
 }
+
+.banner {
+    display: flex;
+}

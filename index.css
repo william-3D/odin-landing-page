@@ -40,4 +40,5 @@ img {
 
 .banner {
     display: flex;
+    max-height: 900px;
 }

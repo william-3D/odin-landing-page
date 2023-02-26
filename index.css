@@ -31,3 +31,9 @@ h1 {
     display: flex;
     justify-content: space-between;
 }
+
+img {
+    max-width: 400px;
+    height: auto;
+
+}

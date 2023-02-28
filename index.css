@@ -83,6 +83,14 @@ nav {
     gap: 50px;
 }
 
+#infotext {
+    padding: 35px;
+    text-align: center;
+    color: #1F2937;
+    font-size: 30px;
+    font-weight: 900;
+}
+
 .proditem {
     display: flex;
     flex-direction: column;

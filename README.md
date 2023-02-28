@@ -1,5 +1,5 @@
 # odin-landing-page
 My first landing page!
 
-Photo by Ben Kolde on Unsplash
+Photo by Firosnv. Photography on Unsplash
   

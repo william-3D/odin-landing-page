@@ -132,6 +132,9 @@ nav {
 #credit {
     font-weight: 700;
     text-align: right;
+    margin-left: 700px;
+    margin-top: 200px;
+    position: absolute;
 }
 
 .cta {

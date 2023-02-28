@@ -33,7 +33,6 @@ h2 {
 .logo {
     font-size: 24px;
     color: #F9FAF8;
-    flex-shrink: 0;
 }
 
 .navbar {
@@ -66,4 +65,8 @@ button {
 
 .sign-up {
     margin-right: 35px;
+}
+
+a {
+    
 }

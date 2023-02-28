@@ -159,3 +159,14 @@ nav {
     border: 2px solid #E5E7EB;
     font-weight: 800;
 }
+
+footer {
+    height: 80px;
+    width: 100vw;
+    background-color: #1F2937;
+    color: #eee;
+    font-size: smaller;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}

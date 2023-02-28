@@ -47,6 +47,7 @@ img {
 .banner {
     display: flex;
     max-height: 900px;
+    justify-content: center;
 }
 
 button {

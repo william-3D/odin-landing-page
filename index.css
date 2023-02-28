@@ -67,6 +67,7 @@ button {
     margin-right: 35px;
 }
 
-a {
-    
+nav {
+    display: flex;
+    gap: 20px;
 }

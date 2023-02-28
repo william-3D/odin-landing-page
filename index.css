@@ -147,3 +147,8 @@ nav {
     display: flex;
     justify-content: space-around;
 }
+
+#ctaheader {
+    font-weight: 900;
+    font-size: larger;
+}

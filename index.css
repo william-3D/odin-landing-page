@@ -40,8 +40,8 @@ h2 {
     justify-content: space-between;
 }
 
-img {
-    height: 250px;
+.banner img {
+    max-width: 400px;
     align-items: center;
 }
 
@@ -51,7 +51,7 @@ img {
     justify-content: center;
     margin: 75px 50%;
     align-items: center;
-    max-width: 500px;
+    flex: 1;
 }
 
 button {

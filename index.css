@@ -113,6 +113,10 @@ nav {
 .quote {
     background-color: #E5E7EB;
     color: #1F2937;
+    padding: 90px 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 #maintext {

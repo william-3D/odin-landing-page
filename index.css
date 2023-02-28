@@ -42,3 +42,13 @@ img {
     display: flex;
     max-height: 900px;
 }
+
+button {
+    padding: 5px 20px;
+    border-radius: 5px;
+    color: #eee;
+    font-weight: 800;
+    background-color: #3882F6;
+    border: none;
+    
+}

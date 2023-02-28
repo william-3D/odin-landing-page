@@ -153,3 +153,8 @@ nav {
     font-weight: 900;
     font-size: larger;
 }
+
+.cta button {
+    font-size: 18px;
+    border: 2px solid #E5E7EB;
+}

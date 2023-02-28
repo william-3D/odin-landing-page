@@ -130,3 +130,11 @@ nav {
     font-weight: 700;
     text-align: right;
 }
+
+#shape {
+    width: 1000px;
+    height: 120px;
+    background-color: #3882F6;
+    border-radius: 7px;
+    margin: 80px 100px;
+}

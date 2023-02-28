@@ -114,3 +114,9 @@ nav {
     background-color: #E5E7EB;
     color: #1F2937;
 }
+
+#maintext {
+    font-size: 36px;
+    font-style: italic;
+    text-align: left;
+}

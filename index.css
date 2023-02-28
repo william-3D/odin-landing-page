@@ -13,6 +13,8 @@ h1 {
     font-size: 48px;
     font-weight: 800;
     color: #F9FAF8;
+    margin: 0;
+    padding: 0;
 }
 
 .subtext {
@@ -50,5 +52,4 @@ button {
     font-weight: 800;
     background-color: #3882F6;
     border: none;
-    
 }

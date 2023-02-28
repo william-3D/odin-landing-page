@@ -1,5 +1,9 @@
 # odin-landing-page
 My first landing page!
 
-Photo by Firosnv. Photography on Unsplash
-  
+Photos form Unsplash, by (in order)
+Firosnv. Photography
+Ben Kolde
+True Agency 
+UX Indonesia
+Myriam Jessier

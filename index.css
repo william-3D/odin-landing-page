@@ -125,6 +125,8 @@ nav {
     font-size: 36px;
     font-style: italic;
     text-align: left;
+    width: 800px;
+    margin: auto;
 }
 
 #credit {
@@ -170,8 +172,4 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
-footer div {
-    
 }

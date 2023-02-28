@@ -120,3 +120,8 @@ nav {
     font-style: italic;
     text-align: left;
 }
+
+#credit {
+    font-weight: 700;
+    text-align: right;
+}

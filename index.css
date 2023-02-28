@@ -131,10 +131,16 @@ nav {
     text-align: right;
 }
 
+.cta {
+    display: flex;
+    justify-content: center;
+}
+
 #shape {
     width: 1000px;
     height: 120px;
     background-color: #3882F6;
     border-radius: 7px;
     margin: 80px 100px;
+    align-items: center;
 }
